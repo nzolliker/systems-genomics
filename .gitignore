@@ -1,0 +1,25 @@
+# OS / R session files
+.DS_Store
+.Rhistory
+.Rapp.history
+.RData
+.Rproj.user/
+Rplots.pdf
+
+# Large or third-party material
+R_analysis/rsem/
+fastqc/
+Cardoso-Moreira_2019.pdf
+*.pptx
+
+# Duplicates of the files in R_analysis/
+/SraRunTable.txt
+/SRR_Acc_List.txt
+
+# Recovery leftovers and outputs of the original interactive session
+R_analysis/analysis_recovered_history_raw.R
+R_analysis/analysis Kopie.R
+R_analysis/genes_C*_all.txt
+R_analysis/genes_expressed.txt
+R_analysis/Dev_Stage Tree.pdf
+R_analysis/Development Tree.png

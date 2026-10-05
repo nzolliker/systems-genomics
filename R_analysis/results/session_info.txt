@@ -1,0 +1,51 @@
+R version 4.3.1 (2023-06-16)
+Platform: aarch64-apple-darwin20 (64-bit)
+Running under: macOS 26.6.2
+
+Matrix products: default
+BLAS:   /Library/Frameworks/R.framework/Versions/4.3-arm64/Resources/lib/libRblas.0.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.3-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.11.0
+
+locale:
+[1] de_CH.UTF-8/de_CH.UTF-8/de_CH.UTF-8/C/de_CH.UTF-8/de_CH.UTF-8
+
+time zone: Europe/Zurich
+tzcode source: internal
+
+attached base packages:
+[1] stats4    stats     graphics  grDevices utils     datasets  methods  
+[8] base     
+
+other attached packages:
+ [1] gridExtra_2.3               fgsea_1.28.0               
+ [3] msigdbr_7.5.1               reshape2_1.4.4             
+ [5] dendextend_1.19.0           viridis_0.6.5              
+ [7] viridisLite_0.4.2           gplots_3.2.0               
+ [9] DESeq2_1.42.1               SummarizedExperiment_1.32.0
+[11] Biobase_2.62.0              MatrixGenerics_1.14.0      
+[13] matrixStats_1.4.1           GenomicRanges_1.54.1       
+[15] GenomeInfoDb_1.38.8         IRanges_2.36.0             
+[17] S4Vectors_0.40.2            BiocGenerics_0.48.1        
+[19] pbapply_1.7-2               ggrepel_0.9.6              
+[21] ggplot2_3.5.1               tibble_3.2.1               
+[23] dplyr_1.1.4                
+
+loaded via a namespace (and not attached):
+ [1] fastmatch_1.1-4         babelgene_22.9          gtable_0.3.6           
+ [4] caTools_1.18.3          lattice_0.22-6          vctrs_0.6.5            
+ [7] tools_4.3.1             bitops_1.0-9            generics_0.1.3         
+[10] parallel_4.3.1          fansi_1.0.6             pkgconfig_2.0.3        
+[13] Matrix_1.6-1.1          KernSmooth_2.23-24      data.table_1.16.2      
+[16] lifecycle_1.0.4         GenomeInfoDbData_1.2.11 farver_2.1.2           
+[19] compiler_4.3.1          stringr_1.5.1           textshaping_0.4.0      
+[22] munsell_0.5.1           codetools_0.2-20        RCurl_1.98-1.16        
+[25] pillar_1.9.0            crayon_1.5.3            BiocParallel_1.36.0    
+[28] DelayedArray_0.28.0     abind_1.4-8             gtools_3.9.5           
+[31] tidyselect_1.2.1        locfit_1.5-9.10         stringi_1.8.4          
+[34] labeling_0.4.3          cowplot_1.1.3           grid_4.3.1             
+[37] colorspace_2.1-1        cli_3.6.3               SparseArray_1.2.4      
+[40] magrittr_2.0.3          S4Arrays_1.2.1          utf8_1.2.4             
+[43] withr_3.0.2             scales_1.3.0            XVector_0.42.0         
+[46] ragg_1.3.3              rlang_1.1.4             Rcpp_1.0.13-1          
+[49] glue_1.8.0              R6_2.5.1                plyr_1.8.9             
+[52] systemfonts_1.1.0       zlibbioc_1.48.2        
